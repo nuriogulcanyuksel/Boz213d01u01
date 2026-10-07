@@ -9,6 +9,6 @@ Python ve Tkinter ile yazılmış basit bir RPG zindan oyunu.
 - 3 canavar: Goblin, İskelet, Ejderha
 
 ## Çalıştırma
-python zindan_kisa.py
+   python Zindanoyunu.py
 
 Ek kütüphane gerekmez, sadece Python 3 yeterli.
